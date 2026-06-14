@@ -6,7 +6,7 @@ The website is designed and developed from scratch using PHP, HTML, CSS, and Jav
 
 ## 🌐 Live Site
 
-[View Portfolio]([https://your-deployed-link-here.com](http://cleocmportfolio.infinityfreeapp.com/index.php))
+[View Portfolio](http://cleocmportfolio.infinityfreeapp.com/index.php)
 
 ## 🚀 Features
 
