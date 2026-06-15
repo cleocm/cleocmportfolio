@@ -35,8 +35,8 @@ The website is designed and developed from scratch using PHP, HTML, CSS, and Jav
 /  
 ├── index.php – Homepage (project list + personal info such as education & certifications)  
 ├── projects.php – Central project data stored in PHP arrays  
-├── details.php – Dynamic project detail page using GET parameters
-├── footer.php – Reusable footer component  
+├── details.php – Dynamic project detail page using GET parameters  
+├── footer.php – Reusable footer component
 
 ## 📌 Notes
 
